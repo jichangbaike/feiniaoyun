@@ -2,7 +2,7 @@
 
 **飞鸟云 FeiNiaoYun** 是一个主打低价直连线路的网络加速服务。需要注意的是，飞鸟云并非专线机场，节点没有家宽 IP，也没有 IEPL、IPLC、中转或专线线路。其节点主要以海外云服务器为主，例如 AWS 等海外机房资源。
 
-目前**飞鸟云**主要使用 **Hysteria2 / HY2 协议**，同时也提供少量 **VLESS** 或 **Trojan** 协议节点。节点地区主要覆盖：香港、台湾、日本、新加坡和美国
+目前**飞鸟云**主要使用 **Hysteria2 / HY2 协议**，同时也提供少量 **VLESS** 协议节点。节点地区主要覆盖：香港、台湾、日本、新加坡和美国
 
 **飞鸟云**套餐价格较低，适合对价格敏感、能够接受直连节点波动、并且具备一定手动配置能力的用户。
 
@@ -11,7 +11,7 @@
 
 > 本页面用于整理飞鸟云 FeiNiaoYun 官网入口、备用地址、套餐信息与基础使用说明，方便用户快速找到可访问入口。
 >   
-> 更新时间：2026-05-10
+> 更新时间：2026-07-02
 
 ---
 
@@ -25,11 +25,9 @@
 
 如主入口无法访问，可尝试以下备用入口：
 
-- [https://g1.342242.icu](https://g1.342242.icu/#/register?code=3CaIPJtO)
-- [https://g2.342242.icu](https://g2.342242.icu/#/register?code=3CaIPJtO)
-- [https://g3.342242.icu](https://g3.342242.icu/#/register?code=3CaIPJtO)
-
-
+- [https://a.538951.xyz/](https://a.538951.xyz/#/register?code=3CaIPJtO)
+- [https://d.634213.xyz/](https://d.634213.xyz/#/register?code=3CaIPJtO)
+- [https://1.593987.xyz/](https://1.593987.xyz/#/register?code=3CaIPJtO)
 
 ## 节点与使用说明
 
@@ -93,6 +91,12 @@
 - 需要用户自行配置客户端。
 
 ---
+
+## 飞鸟云测试
+
+<img src="https://raw.githubusercontent.com/jichangbaike/feiniaoyun/refs/heads/main/images/feiniaoyun-test-20260702.png" alt="飞鸟云测试图">
+
+> 测试时间：2026-07-02，电信 2 Gbps
 
 ## 使用前注意事项
 
