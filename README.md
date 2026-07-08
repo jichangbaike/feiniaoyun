@@ -11,13 +11,15 @@
 
 > 本页面用于整理飞鸟云 FeiNiaoYun 官网入口、备用地址、套餐信息与基础使用说明，方便用户快速找到可访问入口。
 >   
-> 更新时间：2026-07-02
+> 更新时间：2026-07-08
 
 ---
 
 ## 飞鸟云官网地址
 
-- 永久官网入口：[https://feiniaoyun.xyz](https://feiniaoyun.xyz/#/register?code=3CaIPJtO)
+- 永久官网入口：[https://feiniaoyun.xyz](https://finalto.xyz/J3K9eT)
+
+> 如果无法访问，请使用代理。
 
 ---
 
@@ -28,6 +30,8 @@
 - [https://a.538951.xyz/](https://a.538951.xyz/#/register?code=3CaIPJtO)
 - [https://d.634213.xyz/](https://d.634213.xyz/#/register?code=3CaIPJtO)
 - [https://1.593987.xyz/](https://1.593987.xyz/#/register?code=3CaIPJtO)
+
+> 如果无法访问，请使用代理。
 
 ## 节点与使用说明
 
